@@ -133,7 +133,11 @@
     width: 41.66%;
   }
   .col-md-6 {
+<<<<<<< HEAD:module2_solution/Css/css.css
     width: 46.3%;
+=======
+    width: 46.6%;
+>>>>>>> 979237fc8427a307c9de5ed47b4beb4ff5b0f1c8:mod2_solution/Css/css.css
     margin:1.7%;
   }
   .col-md-7 {
